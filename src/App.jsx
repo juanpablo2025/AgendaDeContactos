@@ -1,4 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import Principal from "./Paginas/Principal"
+import Contactos from "./Paginas/Contactos.jsx"
+import './App.css'
 
 function App() {
 
@@ -7,11 +10,11 @@ function App() {
 
     {
       path: '/',
-      element: <h1>inicio</h1>
+      element: <Principal />
     },
     {
-      path: '/',
-      element: <h1>inicio</h1>
+      path: '/Contactos',
+      element: <Contactos />
     },
     {
       path: '/',

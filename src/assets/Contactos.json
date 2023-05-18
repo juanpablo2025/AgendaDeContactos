@@ -1,0 +1,61 @@
+{
+	"contactos": [
+	  {
+	    "nombre": "John Doe",
+	    "telefono": "123456789",
+	    "email": "johndoe@example.com",
+	    "direccion": "123 Main St",
+	    "ciudad": "Ciudad Ejemplo",
+	    "pais": "País Ejemplo"
+	  },
+	  {
+	    "nombre": "Jane Smith",
+	    "telefono": "987654321",
+	    "email": "janesmith@example.com",
+	    "direccion": "456 Elm St",
+	    "ciudad": "Otra Ciudad",
+	    "pais": "Otro País"
+	  },
+	  {
+	    "nombre": "Juan Pérez",
+	    "telefono": "555555555",
+	    "email": "juanperez@example.com",
+	    "direccion": "789 Oak St",
+	    "ciudad": "Alguna Ciudad",
+	    "pais": "Algún País"
+	  },
+	  {
+	    "nombre": "Maria Rodríguez",
+	    "telefono": "111111111",
+	    "email": "maria@example.com",
+	    "direccion": "321 Pine St",
+	    "ciudad": "Otra Ciudad",
+	    "pais": "Otro País"
+	  },
+	  {
+	    "nombre": "Carlos Gomez",
+	    "telefono": "444444444",
+	    "email": "carlos@example.com",
+	    "direccion": "567 Cedar St",
+	    "ciudad": "Ciudad Ejemplo",
+	    "pais": "País Ejemplo"
+	  },
+	  {
+	    "nombre": "Ana López",
+	    "telefono": "222222222",
+	    "email": "ana@example.com",
+	    "direccion": "890 Walnut St",
+	    "ciudad": "Alguna Ciudad",
+	    "pais": "Algún País"
+	  },
+	  
+	  {
+	    "nombre": "Laura Fernandez",
+	    "telefono": "888888888",
+	    "email": "laura@example.com",
+	    "direccion": "432 Maple St",
+	    "ciudad": "Otra Ciudad",
+	    "pais": "Otro País"
+	  }
+	]
+    }

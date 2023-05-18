@@ -1,8 +1,8 @@
-import React from 'react'
+import Nav from "../Components/nav"
 
 const Principal = () => {
 	return (
-		<div>Principal</div>
+		<Nav />
 	)
 }
 
