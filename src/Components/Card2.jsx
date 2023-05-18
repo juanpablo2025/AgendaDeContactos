@@ -1,16 +1,16 @@
 import Datos from "../assets/Contactos.json"
 import imagen from "../assets/img_avatar.jpg"
 
-const datos = Datos.contactos
+
 const datos2 = Datos.contactos2
-console.log(datos)
-const Card = () => {
+console.log(datos2)
+const Card2 = () => {
 	return (
-		<div className="card">
+		<div className="card2">
 
 
 			{
-				datos.map((dato) => (
+				datos2.map((dato2) => (
 					<section className="container">
 						<img className="imagen" src={imagen}></img>
 
@@ -24,12 +24,12 @@ const Card = () => {
 
 						</section >
 						<section className="datos">
-							<p><b>{dato.nombre}</b></p>
-							<p>{dato.telefono}</p>
-							<p>{dato.email}</p>
-							<p>{dato.direccion}</p>
-							<p>{dato.ciudad}</p>
-							<p>{dato.pais}</p>
+							<p><b>{dato2.nombre}</b></p>
+							<p>{dato2.telefono}</p>
+							<p>{dato2.email}</p>
+							<p>{dato2.direccion}</p>
+							<p>{dato2.ciudad}</p>
+							<p>{dato2.pais}</p>
 
 						</section >
 					</section >
@@ -52,4 +52,4 @@ const Card = () => {
 
 
 
-export default Card
+export default Card2
